@@ -1,47 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="60"
-   height="60"
-   viewBox="0 0 60 60"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="running3-bottom-focused.svg">
+   id="svg2"
+   viewBox="0 0 60 60"
+   height="60"
+   width="60">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="6.8083335"
-     inkscape:cx="8.7096273"
-     inkscape:cy="29.412484"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     width="60px"
-     inkscape:window-width="1366"
-     inkscape:window-height="710"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4136" />
-  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -50,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -72,33 +42,25 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-992.3622)">
+     transform="translate(0,-992.3622)"
+     id="layer1">
     <circle
-       style="fill:#00BCD4;fill-opacity:1;stroke:none"
+       r="2"
+       cy="1049.3622"
+       cx="30"
        id="path4138"
-       cx="30"
-       cy="1049.3622"
-       r="2" />
+       style="fill:#00BCD4;fill-opacity:1;stroke:none" />
     <circle
-       style="fill:#00BCD4;fill-opacity:1;stroke:none"
-       id="path4199"
+       r="2"
+       cy="1049.3622"
        cx="36"
-       cy="1049.3622"
-       r="2" />
+       id="path4199"
+       style="fill:#00BCD4;fill-opacity:1;stroke:none" />
     <circle
-       style="fill:#00BCD4;fill-opacity:1;stroke:none"
-       id="path4201"
+       r="2"
+       cy="1049.3622"
        cx="24"
-       cy="1049.3622"
-       r="2" />
-    <circle
-       style="fill:#00BCD4;fill-opacity:1;stroke:none"
-       id="path4138-9"
-       cx="30"
-       cy="995.36218"
-       r="3" />
+       id="path4201"
+       style="fill:#00BCD4;fill-opacity:1;stroke:none" />
   </g>
 </svg>
